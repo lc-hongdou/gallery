@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://gitee.com/ljs_ice/normal-character2">
-    <img width="600" src="https://gitee.com/ljs_ice/normal-character2/raw/master/%23%E6%89%A9%E5%B1%95/Picture/head.jpg">
+  <a href="https://github.com/lc-hongdou/gallery">
+    <img width="600" src="https://s2.loli.net/2022/12/30/9wc1568OzShrQpD.jpg">
   </a>
 
   # 喵喵插件（miao-plugin）角色面板图库
-  [![访问量](https://profile-counter.glitch.me/normal-character2/count.svg)](https://gitee.com/ljs_ice/normal-character2)
+  [![访问量](https://profile-counter.glitch.me/lc-hongdou-gallery/count.svg)](https://github.com/lc-hongdou/gallery)
 
 </p>
 
@@ -12,15 +12,16 @@
 
 #### 介绍❤❤❤❤❤
 - 用于`Yunzai-Bot`V3_`喵喵插件`（miao-plugin）的角色面板webp格式的图库<br>
-由于占用的原因，本仓库只包含较为热门的角色
+由于占用的原因，本仓库只包含旅行者
+> 其他角色的请移步我的<br>
+☞[水元素](https://github.com/lc-hongdou/shui)
+☞[火元素](https://github.com/lc-hongdou/huo)
+☞[冰元素](https://github.com/lc-hongdou/bing)
+☞[雷元素](https://github.com/lc-hongdou/lei)
+☞[岩元素](https://github.com/lc-hongdou/yan)
+☞[草元素](https://github.com/lc-hongdou/cao)
+☞[风元素](https://github.com/lc-hongdou/feng)
 
-|   |   |   |   |   |   |   | 
-| --- | --- | --- | --- | --- | --- | --- | 
-| 八重神子 | 刻晴 | 妮露 | 宵宫 | 珊瑚宫心海 | 甘雨 | 申鹤 |
-| 神里绫华 | 纳西妲 | 胡桃 | 荧 | 莫娜 | 雷电将军 | 优菈 |
-
-> 热门不热门取决于文件夹面板图的数量<br>
-需要下载其他角色的请移步我的☞[另一个仓库](https://gitee.com/ljs_ice/normal-character)
 
 #### 图库说明
 
@@ -37,24 +38,34 @@
 #### 食用方法🔥🔥🔥🔥
 <details><summary>展开</summary>
 
-使用Gitee(而且只有Gitee)，在<br>
+拉取链接(选其中一个即可)<br>
 ```
-/plugins/miao-plugin/resources/profile
+git clone https://gitclone.com/github.com/lc-hongdou/gallery.git
 ```
-拉取链接<br>
 ```
-git clone https://gitee.com/ljs_ice/normal-character2.git
+git clone https://ghproxy.com/https://github.com/lc-hongdou/gallery.git
+```
+```
+git clone https://hub.njuu.cf/lc-hongdou/gallery.git
+```
+```
+git clone https://kgithub.com/lc-hongdou/gallery.git
+```
+
+放在<br>
+```
+Yunzai-bot/plugins/miao-plugin/resources/profile/normal-character
 ```
 
 等待完成就行了，失败大概是网络问问题，大概1.7个G<br>
 自行决定图库用于什么面板<br>
 普通面板(图鉴/非彩蛋面板等)存放位置<br>
 ```
-/plugins/miao-plugin/resources/profile/normal-character
+Yunzai-bot/plugins/miao-plugin/resources/profile/normal-character
 ```
 或者 彩蛋(三皇冠/ACE/满命)存放位置<br>
 ```
-/plugins/miao-plugin/resources/profile/super-character
+Yunzai-bot/plugins/miao-plugin/resources/profile/super-character
 ```
 </details>
 
@@ -72,10 +83,6 @@ git pull
 #### 示例
 
 <details><summary>展开</summary>
-
-![预览](https://gitee.com/ljs_ice/normal-character2/raw/master/%23%E6%89%A9%E5%B1%95/Picture/预览.jpg)
-![示例](#https://gitee.com/ljs_ice/normal-character2/raw/master/%23%E6%89%A9%E5%B1%95/Picture/示例.jpg)
-![示例](https://gitee.com/ljs_ice/normal-character2/raw/master/%23%E6%89%A9%E5%B1%95/Picture/示例2.jpg)
 
 </details>
 
@@ -112,9 +119,23 @@ git pull
 * Yunzai-Bot：[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)
 * Miao-plugin：[Gitee](https://gitee.com/yoimiya-kokomi/miao-plugin) & [Github](https://github.com/yoimiya-kokomi/miao-plugin)
 * Yunzai-Bot插件库：[Gitee](https://gitee.com/Hikari666/Yunzai-Bot-plugins-index) & [GitHub](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
-* 我的另一个面板图库（其他角色）：[Gitee](https://gitee.com/ljs_ice/normal-character)
-
 * 最后再求个star，你的支持是维护本项目的动力~~
 * 严禁用于任何商业用途和非法行为
+
+</details>
+
+#### 其他图库地址
+
+[![水元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=shui&show_owner=true)](../../../shui)
+[![火元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=huo&show_owner=true)](../../../huo)
+[![冰元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=bing&show_owner=true)](../../../bing)
+[![雷元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=lei&show_owner=true)](../../../lei)
+[![岩元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=yan&show_owner=true)](../../../yan)
+[![草元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=cao&show_owner=true)](../../../cao)
+[![风元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=feng&show_owner=true)](../../../feng)
+
+
+
+
 
 </details>
