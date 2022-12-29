@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/lc-hongdou/gallery">
-    <img width="600" src="https://s2.loli.net/2022/12/30/9wc1568OzShrQpD.jpg">
-  </a>
+  <a href="https://smms.app/image/QBNDOmyaTHVxtqi" target="_blank"><img src="https://s2.loli.net/2022/12/30/QBNDOmyaTHVxtqi.jpg" ></a>
 
   # 喵喵插件（miao-plugin）角色面板图库
   [![访问量](https://profile-counter.glitch.me/lc-hongdou-gallery/count.svg)](https://github.com/lc-hongdou/gallery)
@@ -12,8 +10,8 @@
 
 #### 介绍❤❤❤❤❤
 - 用于`Yunzai-Bot`V3_`喵喵插件`（miao-plugin）的角色面板webp格式的图库<br>
-由于占用的原因，本仓库只包含旅行者
-> 其他角色的请移步我的<br>
+由于占用的原因，本仓库只包含旅行者的面板图
+> 其他角色的请移步我的其他仓库<br>
 ☞[水元素](https://github.com/lc-hongdou/shui)
 ☞[火元素](https://github.com/lc-hongdou/huo)
 ☞[冰元素](https://github.com/lc-hongdou/bing)
@@ -27,7 +25,7 @@
 
 <details><summary>展开</summary>
 
-此库提供由我与他人（主要为椰奶抠图大佬）扣制的自主整理群文件上传的角色面板图<br>
+> 此库提供由我与他人（主要为椰奶抠图大佬）扣制的自主整理群文件上传的角色面板图<br>
 整理了很久把格式换成webp，主要是想回馈群友，服务器图片一张张放上去太难了<br>
 一张张核对基本没有重复的（肝开始疼了），并且进行了[‘文件夹+序号’的重命名](./rename.bat)排序<br>
 如果您想为此仓库贡献<br>
@@ -78,6 +76,16 @@ Yunzai-bot/plugins/miao-plugin/resources/profile/super-character
 git pull
 ```
 另外更新图片频率取决于作者忙不忙，有需要可以进群求帮助<br>
+</details>
+
+#### 不更新某些角色图片
+
+<details><summary>展开</summary>
+在.gitgnore文件填写图库路径，如：
+```
+/罗莎莉亚
+/优菈
+```
 </details>
 
 #### 示例
