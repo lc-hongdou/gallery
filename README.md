@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://smms.app/image/QBNDOmyaTHVxtqi" target="_blank"><img src="https://s2.loli.net/2022/12/30/QBNDOmyaTHVxtqi.jpg" ></a>
+  <a href="https://github.com/lc-hongdou/gallery" target="_blank"><img src="https://s2.loli.net/2022/12/30/QBNDOmyaTHVxtqi.jpg" ></a>
 
   # 喵喵插件（miao-plugin）角色面板图库
   [![访问量](https://profile-counter.glitch.me/lc-hongdou-gallery/count.svg)](https://github.com/lc-hongdou/gallery)
@@ -55,7 +55,7 @@ git clone https://kgithub.com/lc-hongdou/gallery.git
 Yunzai-bot/plugins/miao-plugin/resources/profile/normal-character
 ```
 
-等待完成就行了，失败大概是网络问问题，大概1.7个G<br>
+等待完成就行了，失败大概是网络问问题<br>
 自行决定图库用于什么面板<br>
 普通面板(图鉴/非彩蛋面板等)存放位置<br>
 ```
