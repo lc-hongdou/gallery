@@ -34,6 +34,7 @@
 </details>
 
 #### 食用方法🔥🔥🔥🔥
+
 <details><summary>展开</summary>
 
 拉取链接(选其中一个即可)<br>
@@ -65,27 +66,32 @@ Yunzai-bot/plugins/miao-plugin/resources/profile/normal-character
 ```
 Yunzai-bot/plugins/miao-plugin/resources/profile/super-character
 ```
+
 </details>
 
 #### 更新仓库图片
 
 <details><summary>展开</summary>
+
 - 在上面位置输入下面指令更新图片，先clone再更新<br>
 
 ```
 git pull
 ```
 另外更新图片频率取决于作者忙不忙，有需要可以进群求帮助<br>
+
 </details>
 
 #### 不更新某些角色图片
 
 <details><summary>展开</summary>
+
 在.gitgnore文件填写图库路径，如：
 ```
 /罗莎莉亚
 /优菈
 ```
+
 </details>
 
 #### 示例
