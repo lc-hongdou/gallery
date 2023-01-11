@@ -10,15 +10,15 @@
 
 #### 介绍❤❤❤❤❤
 - 用于`Yunzai-Bot`V3_`喵喵插件`（miao-plugin）的角色面板webp格式的图库<br>
-由于占用的原因，本仓库只包含旅行者的面板图
+由于占用的原因，本仓库只包含`旅行者`的面板图
 > 其他角色的请移步我的其他仓库<br>
-☞[水元素](https://github.com/lc-hongdou/shui)
-☞[火元素](https://github.com/lc-hongdou/huo)
-☞[冰元素](https://github.com/lc-hongdou/bing)
-☞[雷元素](https://github.com/lc-hongdou/lei)
-☞[岩元素](https://github.com/lc-hongdou/yan)
-☞[草元素](https://github.com/lc-hongdou/cao)
-☞[风元素](https://github.com/lc-hongdou/feng)
+💧`[水元素](https://github.com/lc-hongdou/shui)`
+🔥`[火元素](https://github.com/lc-hongdou/huo)`
+🧊`[冰元素](https://github.com/lc-hongdou/bing)`
+⚡`[雷元素](https://github.com/lc-hongdou/lei)`
+🌎`[岩元素](https://github.com/lc-hongdou/yan)`
+🍀`[草元素](https://github.com/lc-hongdou/cao)`
+🌀`[风元素](https://github.com/lc-hongdou/feng)`
 
 
 #### 图库说明
