@@ -20,9 +20,6 @@
 🍀[`草元素`](https://github.com/lc-hongdou/cao)
 🌀[`风元素`](https://github.com/lc-hongdou/feng)
 
-> 单角色可看右侧[`Release`](https://github.com/lc-hongdou/gallery/releases)<br>
-单独下载*.zip文件解压，Linux系统unzip *.zip解压
-下载慢的话可以复制链接去☞[`加速下载`](https://doget.nocsdn.com)
 
  图库说明
 
